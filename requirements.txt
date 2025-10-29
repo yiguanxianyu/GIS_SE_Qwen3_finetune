@@ -38,3 +38,8 @@ scikit-learn
 kaleido
 html
 gc
+torchmetrics
+transformers
+scikit-learn
+codebleu
+torch
