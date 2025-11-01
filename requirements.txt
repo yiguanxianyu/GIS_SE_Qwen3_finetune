@@ -1,6 +1,5 @@
 overpy 
 contextily
-google-generativeai
 geopandas
 folium
 matplotlib
@@ -19,10 +18,6 @@ langchain_core
 langgraph
 numpy
 pandas
-pathlib
-langchain_google_genai
-langchain_anthropic
-langchain_openai
 nbformat
 plotly
 shapely
@@ -37,9 +32,11 @@ statsmodels
 scikit-learn
 kaleido
 html
-gc
 torchmetrics
 transformers
 scikit-learn
 codebleu
 torch
+verl
+deepspeed
+vllm
